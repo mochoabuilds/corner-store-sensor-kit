@@ -1,12 +1,15 @@
-## 1 WHY? 
+## 1 INTRODUCTION
 
-* New kinds of technologies are being used to monitor the essential retailer. As sensors and processors get better, they are increasingly able to process data themselves at the network edge on palm-sized processors, rather than centrally in the cloud. By pushing local storage of data we offer less points of entry for hackers while also simplifying computational loads.  Our artificial intelligence (AI) application engages shopkeepers a bit differently by showing packaged goods flows in real-time, giving them "eyes in the back of their head" for the identity and location of their inventory.
+* New kinds of technologies are being used to monitor the essential retailer. As sensors and processors get better, they are increasingly able to process data themselves at the network edge on palm-sized processors, rather than centrally in the cloud. 
+* Our system takes in thermal and vision data and manipulates it according to a series of instructions.  It then spits out results that build structures, navigates the built environment and reveals patterns otherwise beyond humans' minds.  Ultimately, the goal is to multiple the efficiency of what humanity has done at the essential retailer for centuries with a reliable, small, thoughtfully designed technologies.
+* This technology relies on solving the problem of market logic driving the pace of essential retailers data-flows. It's a big problem, and big opportunity.  I discovered it when I deconstructed a computer vision application.  I made two interesting discoveries: the components could be all bought all-the-shelf, and the application could be made for $600 in parts and many lines of code.
+* Our application engages shopkeepers a bit differently by showing packaged goods flows in real-time, giving them "eyes in the back of their head" for the identity and location of their inventory in real-time. This boost in productivity from new technologies will take time to work out.  New technology is an example of what economists call "general-purpose technology", like electricity a century plus ago, it has the potential to boost productivity across many industries.  However, making the most of such tech takes time and experimentation. This accumulation of know-how means applied researchers like myself must collect "intangible capital" for reasons we don't yet understand. Until this intangible capital bears fruit, measured by surges in productivity, entrepreneurial types like myself will continue to trudge on.
 
-* This boost in labor productivity from new technologies like AI and edge-computing will take time to work out.  AI is an example of what economists call "general-purpose technology", like electricity a century plus ago, it has the potential to boost productivity across many industries.  Tho making the most of such tech takes time and experimentation. This accumulation of know-how means applied researchers like myself must collect "intangible capital" for reasons we don't yet understand. Until this intangible capital bears fruit, measured by surges in productivity, researchers like myself will continue to trudge on.
+## 2 METHODS
 
-# 2 METHODS
+* We engage psychology and art history from the onset with an extensive set of mock-ups, prototypes and user tests to see what works and how it could work.  We develop scenarios for uses of imagined tools based on the task.  By gathering 600-700 hours of field work we are better able to frame and prototype scenarios. The goal of the qualitative approach is specify completely and unambiguously the whole guest/client experience to keep tech tools moving ahead in an human-centered direction, and make monitoring inventory and checkout easier.
 
-* This applied research relies on a mix of methods such as:
+* This mixed-methods research relies on a mix of methods like:
   * data collection 
   * on-the-ground fieldwork
   * creation of models
@@ -19,7 +22,7 @@
 
 ## 3.1 MOONSHOT APPLICATION
 
-* Our moonshot is to normalize the idea of retailers selling gift cards redeemable for autonomous checkout directly to guests. _Imagine walking into a retailer, "checking in" with your smartphone, browsing/shopping and then recieving an adjustable receipt upon walking out._ Pre-paying means transactions could be settled instantly on in-house digital ledgers, rather than the pipes of cards networks and banks. By pulling transactions out of the banking system we would also cut operating expenses for retailers, which amount to 1-3% per transaction.
+* Our moonshot is to normalize the idea of retailers selling gift cards redeemable for autonomous checkout directly to guests. _Imagine walking into a retailer, "checking in" with your smartphone, browsing/shopping and then receiving an adjustable receipt upon walking out._ Pre-paying means transactions could be settled instantly on in-house digital ledgers, rather than the pipes of cards networks and banks. By pulling transactions out of the banking system we would also cut operating expenses for retailers, which amount to 1-3% per transaction.
 
 ## 4 IN-HOUSE REFERENCE LIBRARY
 
